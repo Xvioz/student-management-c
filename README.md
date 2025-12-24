@@ -17,21 +17,12 @@ struct, file handling, and modular programming.
 - Basic data validation
 
 ## Project Structure
+```
 student-management-c/
 ├── src/
 │ └── Project Data Mahasiswa.c
 └── README.md
+```
 
-## How to Compile & Run
-
-### Windows (GCC / MinGW)
-```bash
-cd src
-gcc "Project Data Mahasiswa.c" -o mahasiswa
-mahasiswa
-### Linux / macOS
-bash
-Copy code
-cd src
-gcc Project\ Data\ Mahasiswa.c -o mahasiswa
-./mahasiswa
+**This program is written in C and must be compiled locally before execution.
+Make sure GCC is installed on your system.**
