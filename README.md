@@ -6,17 +6,12 @@ struct, file handling, and modular programming.
 ## Features
 - Add student data
 - Delete student data
+- Find student data
 - Display student list
 - Sort data alphabetically
-- Persistent storage using text files
 
 ## Concepts Used
 - Struct & Array
 - File I/O (fopen, fread, fwrite)
 - Modular programming
 - Basic data validation
-
-## How to Compile & Run
-```bash
-gcc Project\ Data\ Mahasiswa.c -o mahasiswa
-./mahasiswa
