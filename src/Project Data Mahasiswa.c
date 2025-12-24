@@ -229,8 +229,8 @@ void findData() {
 // fungsi sort data
 void sortData() {
     int choose;
-	system("cls");
 	do {
+		system("cls");
         
         printf("=========================================\n");
         printf("|   SISTEM MANAJEMEN DATA MAHASISWA     |\n");
@@ -254,6 +254,7 @@ void sortData() {
 			}
 			default: {
 				printf("Input Tidak Valid!\n");
+				system("pause");
 				break;
 			}
 		}
@@ -381,4 +382,5 @@ int main() {
     }
 
     return 0;
+
 }
