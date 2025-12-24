@@ -12,7 +12,7 @@ struct, file handling, and modular programming.
 
 ## Concepts Used
 - Struct & Array
-- File I/O (fopen, fread, fwrite)
+- File I/O (fopen, fclose)
 - Modular programming
 - Basic data validation
 
