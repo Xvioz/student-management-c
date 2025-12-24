@@ -20,8 +20,6 @@ struct, file handling, and modular programming.
 ```
 student-management-c/
 ├── src/
-│ ├── output/
-│ │ └── Project Data Mahasiswa.exe
 │ └── Project Data Mahasiswa.c
 └── README.md
 ```
